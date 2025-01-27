@@ -12,7 +12,7 @@ News
 =====
 • 2024-12-20, The manuscript entitled "An Evolutionary Task Scheduling Algorithm Using Fuzzy Fitness Evaluation Method for Communication Satellite Network" has been accepted by Swarm and Evolutionary Computation. \
 • 2024-11-15, One SWEVO survey was selected as the Highly Cited Paper in Web of Science. \
-• 2024-02-19, The survey entitled "Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities  " has been accepted by Swarm and Evolutionary Computation. \
+• 2024-02-19, The survey entitled "Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities  " has been accepted by Swarm and Evolutionary Computation. 
 
 
 Research Interests
@@ -37,6 +37,6 @@ Prof. P. N. Suganthan, Nanyang Technological University, Singapore \
 Prof. Swagatam Das, Indian Statistical Institute, India \
 Prof. Rammohan Mallipeddi, Kyungpook National University, South Korea \
 Dr. Yanjie Song \
-Prof. Victor Parque \
+Prof. Victor Parque 
 
 
