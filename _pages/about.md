@@ -33,5 +33,9 @@ Collaborators
 ======
 Prof. Witold Pedrycz, University of Alberta, Canda \
 Prof. P. N. Suganthan, Nanyang Technological University, Singapore \
+Prof. Swagatam Das, Indian Statistical Institute, India \
+Prof. Rammohan Mallipeddi, Kyungpook National University, South Korea \
+Dr. Yanjie Song \
+Prof. Victor Parque \
 
-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
