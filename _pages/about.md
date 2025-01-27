@@ -22,7 +22,7 @@ Research Interests
 • Reinforcement learning, Evolutionary reinforcement learning \
 • Robotics, Human-Robot Interaction (HRI), Intelligent control systems\
 • Single-objective optimization, multi-objective optimization \
-• Constraint and unconstraint optimization \
+• Constraint and unconstraint optimization 
 
 
 Biography
