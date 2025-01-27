@@ -20,19 +20,23 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-   - title: "Professional Activities"
+
+  - title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "Professional Activities"
     url: /professional-activities/ 
 
-   - title: "Grants"
+  - title: "Grants"
     url: /grant/
 
-   - title: "Honours/Awards"
+  - title: "Honours/Awards"
     url: /honours-awards/  
 
-   - title: "Resources"
+  - title: "Resources"
     url: /resources/
     
-   - title: "CV"
+  - title: "CV"
     url: /cv/
     
   # - title: "Guide"
