@@ -27,7 +27,8 @@ Research Interests
 
 Biography
 ======
-Yanjie Song received double B.S. degrees in Management from Tianjin University, Tianjin, China, in 2017 and the Ph.D. degree in Engineering from National University of Defense Technology, Changsha, China, in 2022. He has published more than 40 papers in IEEE Trans. on Aerospace and Electronic Systems, Swarm and Evolutionary Computation, Information Sciences, Advanced Engineering Informatics, Computers & Industrial Engineering and other journals. He has authored 1 academic book, obtained 7 National Invention Patents, and hosted/participated in more than 15 projects. His research interests include computational intelligence, evolutionary algorithm, combinatorial optimization, and deep reinforcement learning. He is now the reviewer of the IEEE Trans. on Systems, Man and Cybernetics: Systems, Swarm and Evolutionary Computation, Neural Networks, Knowledge-Based Systems, Information Science, Applied Soft Computing and more than 30 other journals. 
+OLADAYO S. AJANI received the B.S. degree in computer engineering from the Federal University of Technology, Minna, Nigeria, in 2015, the M.S. degree in robotics and mechatronics engineering from Egypt Japan University of Science and Technology, Alexandria, Egypt, in 2020, and the Pd.D degree in Artificial Intelligence from Kyungpook National University Korea in 2024. He is currently a Post-Doctoral Research Fellow at the Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea. His research interests include reinforcement learning, intelligent control, learning networks, evolutionary computation and their applications in robotics, and real-world problems. He serves as a Regular Reviewer for several journals, including IEEE Trans. on Systems, Man and Cybernetics: Systems, Swarm and Evolutionary Computation, EAAI, ESWA,  ASOC, CAEE, and JMIR. 
+ 
 
 Collaborators
 ======
