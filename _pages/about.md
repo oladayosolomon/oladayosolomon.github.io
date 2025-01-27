@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Dr. Oladayo S. Ajani"
-excerpt: "About me"
+#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
