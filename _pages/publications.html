@@ -5,32 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+**Journal Articles**
+<ol>
+<li><b>Song, Y.</b>, Wu, Y., Guo, Y., Yan, R., Suganthan, P. N., Zhang, Y., ... & Feng, Q. (2024). Reinforcement learning-assisted evolutionary algorithm: A survey and research opportunities. Swarm and Evolutionary Computation, 86, 101517.
+</li>
+</ol>
 
-{% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+
+
+**Conference Papers**
+<ol>
+<li>Ma, X., Zhang, Y., <b>Song, Y. J.</b>, Zhang, Z. S., Yao, F., & Han, X. D. (2019, March). A Fast and Effective Solution Algorithm for Satellite Measurement and Control Scheduling Problem. In Proceedings of the International Conference on Industrial Control Network and System Engineering Research (pp. 14-17).</li>
+<li><b>Song, Y. J.</b>, Ma, X., Zhang, Z. S., Xing, L. N., & Chen, Y. W. (2018, November). A hybrid dynamic population genetic algorithm for multi-satellite and multi-station mission planning system. In International Conference on Bio-Inspired Computing: Theories and Applications (pp. 444-453). Springer, Singapore.</li>
+</ol>
+
+
+
+**Patents**
+<ol>
+<li>Korean Patent.  Anomalous Vehicle Detection and Alerting System using CCTV Camera Network, Patent Number: C-2023-051898.</li>
+</ol>
+
+**Working Papers**
+<ol>
+<li>A Reinforcement learning-based two-layer Adaptive Optimization Method for User-side Energy Storage Scheduling Problem </li>
+<li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
+<li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
+<li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
+<li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
+</ol>
 
 
 
