@@ -10,7 +10,7 @@ redirect_from:
 
 News
 =====
-• 2024-12-20, The manuscript entitled "An Evolutionary Task Scheduling Algorithm Using Fuzzy Fitness Evaluation Method for Communication Satellite Network" has been accepted by Swarm and Evolutionary Computation. \
+• 2024-12-20, The manuscript entitled "Prediction-guided multi-objective reinforcement learning with corner solution search" has been accepted by Computers and Electrical Engineering. \
 • 2024-11-15, One SWEVO survey was selected as the Highly Cited Paper in Web of Science. \
 • 2024-02-19, The survey entitled "Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities  " has been accepted by Swarm and Evolutionary Computation. 
 
@@ -27,7 +27,7 @@ Research Interests
 
 Biography
 ======
-OLADAYO S. AJANI received the B.S. degree in computer engineering from the Federal University of Technology, Minna, Nigeria, in 2015, the M.S. degree in robotics and mechatronics engineering from Egypt Japan University of Science and Technology, Alexandria, Egypt, in 2020, and the Pd.D degree in Artificial Intelligence from Kyungpook National University Korea in 2024. He is currently a Post-Doctoral Research Fellow at the Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea. His research interests include reinforcement learning, intelligent control, learning networks, evolutionary computation and their applications in robotics, and real-world problems. He serves as a Regular Reviewer for several journals, including IEEE Trans. on Systems, Man and Cybernetics: Systems, Swarm and Evolutionary Computation, EAAI, ESWA,  ASOC, CAEE, and JMIR. 
+Oladayo S. Ajani received the B.S. degree in computer engineering from the Federal University of Technology, Minna, Nigeria, in 2015, the M.S. degree in robotics and mechatronics engineering from Egypt Japan University of Science and Technology, Alexandria, Egypt, in 2020, and the Pd.D degree in Artificial Intelligence from Kyungpook National University Korea in 2024. He is currently a Post-Doctoral Research Fellow at the Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea. His research interests include reinforcement learning, intelligent control, learning networks, evolutionary computation and their applications in robotics, and real-world problems. He serves as a Regular Reviewer for several journals, including IEEE Trans. on Systems, Man and Cybernetics: Systems, Swarm and Evolutionary Computation, EAAI, ESWA,  ASOC, CAEE, and JMIR. 
  
 
 Collaborators
