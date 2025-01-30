@@ -11,8 +11,8 @@ EC Platforms
 =====
 <ol>
 <li>Evolutionary multi-objective optimization platform, <a href="https://github.com/BIMK/PlatEMO"> [PlatEMO] </a></li>
-<li>Distributed Evolutionary Algorithms in Python, <a href="https://github.com/DEAP/deap"> [DEAP] </a></li>
-<li>A Java-based Evolutionary Computation Research System, <a href="https://cs.gmu.edu/~eclab/projects/ecj/"> [ECJ]</a></li>
+<li>Multi-objective Optimization in Python, <a href="https://pymoo.org/problems/many/wfg.html"> [Pymoo] </a></li>
+<li>COCO: COmparing Continuous Optimizers, <a href="https://numbbo.github.io/coco/"> [COCO]</a></li>
 </ol>
 
 Datasets
