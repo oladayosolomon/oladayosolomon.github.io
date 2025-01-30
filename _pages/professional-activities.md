@@ -22,12 +22,13 @@ and here
 
 
 
-
+<!---
 **Conference Organisation** 
 <ol>
 <li> Editor, <a href="https://www.ammsamath.com/committee/"> 3rd International Conference on Applied Mathematics, Modelling and Statistics Application (AMMSA 2023) </a>, 2023 </li>	
 <li>  Publicity Chair, <a href="https://www.ccicsconf.com/index/singer/category_id/58.html"> International Conference on Computational Intelligence and Communication System</a>, 2023</li>
 </ol>
+-->
 
 
 **Peer Reviewer for International Journals**
