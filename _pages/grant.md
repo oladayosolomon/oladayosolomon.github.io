@@ -4,8 +4,7 @@ title: "Grants"
 permalink: /grant/
 author_profile: true
 ---
-1. National Natural Science Foundation of China in 2019: Space Deployment Optimization and Decision-making for Rapid Response to Maritime Emergencies (Participate) 
-2. National Natural Science Foundation of China in 2019: Modeling and Solution of Demand-Driven Beidou Satellite-Earth Time Synchronization Mission Planning Problem (Participate) 
-3. The National Innovation Project for college students in 2016: Research on Credit Rationing Model under Multi-task Agent (Host) 
-4. The National Innovation Project for college students in 2016: Research on the Innovation of Urban Infrastructure Construction Investment and Financing Model Under the Background of the New Policy (Participate) 
-5. The National Innovation Project for college students in 2015: Design and Implementation of 'Xiaowei Classroom' based on WeChat Public Platform  (Participate)
+1. National Research Foundation of Korea (2023): A real-time warning system using deep learning-based vehicle identification and tracking technology to prevent traffic accidents. funded through Daegu Techno Park (DGTP) 2023 Regional Innovation Centered University Research Activity Support Project(Participate) 
+2. National Research Foundation of Korea (2024-2024): Development of AI-based Smart Unmanned Issuance Solution for Digital Inclusion. Funded through the Institute of Information & communications, Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT). (No.RS-2023-00262841). (Participate) 
+3. National Research Foundation of Korea (2021-2023):  Understanding energy consumption patterns for incentive design and facility planning (Participate)
+4.  
