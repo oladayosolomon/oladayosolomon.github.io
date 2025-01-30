@@ -34,9 +34,7 @@ Benchmarks and Datasets
 Open Source Codes
 =====
 <ol>
-<li>IcSDE+ -- An Indicator for Constrained Multi-Objective Optimization,  <a href="https://github.com/RammohanMallipeddi/Matlab-Codes-for-cISDE-"> [cISDE+] </a></li>">
-<li>CMA-ES with ensemble of mutations for Parking Navigation and Maneuver of Autonomous Vehicles,  <a href="https://github.com/oladayosolomon/mCMA-ES"> [mCMA-ES] </a></li>">
-<li>Multi-indicator based multi-objective evolutionary algorithm with application to neural architecture search,  <a href="https://github.com/oladayosolomon/MI-MOEA"> [cISDE+] </a></li>">
-
-
+<li>IcSDE+ -- An Indicator for Constrained Multi-Objective Optimization,  <a href="https://github.com/RammohanMallipeddi/Matlab-Codes-for-cISDE-"> [cISDE+] </a></li>
+<li>CMA-ES with ensemble of mutations for Parking Navigation and Maneuver of Autonomous Vehicles,  <a href="https://github.com/oladayosolomon/mCMA-ES"> [mCMA-ES] </a></li>
+<li>Multi-indicator based multi-objective evolutionary algorithm with application to neural architecture search,  <a href="https://github.com/oladayosolomon/MI-MOEA"> [cISDE+] </a></li>
 </ol>
