@@ -60,6 +60,6 @@ and here
 
 **Professional Membership**
 <ol>
-<li> IEEE Student Member, 2017 – 2023 </li>
+<li> IEEE Student Member, 2019 – 2024 </li>
 <li> Black in Artificial Intelligence 2022 - Present </li>
 </ol>
