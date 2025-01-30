@@ -33,56 +33,20 @@ and here
 **Peer Reviewer for International Journals**
 <ol>
 <li> IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE</li>
-<li> IEEE Transactions on Intelligent Transportation Systems, IEEE</li>
-<li> IEEE Transactions on Computational Social Systems, IEEE</li>
-<li> IEEE Robotics and Automation Letters, IEEE</li>
-<li> IEEE Consumer Electronics Magazine, IEEE</li>
+<li> IEEE Transactions on Evolutionary Computation, IEEE</li>
 <li>	Swarm and Evolutionary Computation, Elsevier </li>
 <li>  Acta Astronautica, Elsevier</li>
-<li>   Neural Networks, Elsevier</li>
+<li>   Computers and Electrical Engineering, Elsevier</li>
 <li>   Complex & Intelligent Systems, Springer </li>
 <li> 	Expert Systems with Applications, Elsevier</li>
+<li> 	Engineering Applications of Artificial Intelligence, Elsevier</li>
+
 <li>   Applied Soft Computing, Elsevier</li>
 <li>   Information Science, Elsevier</li>
-<li> 	Engineering Applications of Artificial Intelligence, Elsevier</li>
 <li> 	Computers & Operations Research, Elsevier</li>
 <li> 	Knowledge-Based Systems, Elsevier</li>
-<li> 	International Journal of Information Management, Elsevier</li>
-<li> 	Chinese Journal of Aeronautics, Elsevier</li>
-<li> 	IEEE/CAA Journal of Automatica Sinica, IEEE</li>
-<li> 	Computers & Industrial Engineering, Elsevier</li>
-<li> 	Neural Computing and Applications, Springer</li>
-<li> 	Journal of King Saud University-Computer & Information Sciences, Elsevier</li>
-<li> 	Advances in Space Research, Elsevier</li>
-<li> 	Applied Optics, OPTICA</li>
 <li> 	IEEE ACCESS, IEEE</li>
-<li> 	Sustainable Computing: Informatics and Systems, Elsevier</li>
-<li> 	Concurrency and Computation Practice and Experience, Wiley</li>
-<li> 	Computer Modeling in Engineering and Sciences, Tech Science</li>
-<li> 	Cluster Computing, Springer</li>
-<li> 	EURASIP Journal on Image and Video Processing, Springer</li>
-<li> 	Ain Shams Engineering Journal, Elsevier</li>
-<li> 	International Journal of Applied Earth Observation and Geoinformation, Elsevier</li>
-<li> 	CAAI Transactions on Intelligence Technology, IET</li>
-<li> International Journal of Management Science and Engineering Management, Taylor & Francis</li>
-<li> AppliedMath, MDPI</li>
-<li> Production & Manufacturing Research, Taylor & Francis</li>
-<li> Applied Computational Intelligence and Soft Computing, Hindawi</li>
-<li> PeerJ Computer Science, PeerJ</li>
-<li> Journal of Cloud Computing, Springer</li>
-<li> Mathematics, MDPI</li>
-<li> Frontiers in Space Technologies, Frontiers </li>
-<li> Sustainability, MDPI </li>
-<li> The Innovation, Cell </li>
-<li> International Journal on Interactive Design and Manufacturing, Springer </li>
-<li> Production & Manufacturing Research, Taylor & Francis </li>
-<li> Aerospace, MDPI </li>
-<li> Scientific Programming, Hindawi</li>
-<li>Remote Sensing, MDPI</li>
-<li>SoftwareX, Elsevier</li>
-<li>Atmosphere, MDPI</li>
-<li>Applied Computing and Informatics, Emerald Publishing</li>
-<li> Franklin Open, Elsevier</li>
+
 </ol>
 
 <!---
