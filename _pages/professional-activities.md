@@ -32,20 +32,17 @@ and here
 
 **Peer Reviewer for International Journals**
 <ol>
-<li> IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE</li>
 <li> IEEE Transactions on Evolutionary Computation, IEEE</li>
-<li>	Swarm and Evolutionary Computation, Elsevier </li>
-<li>  Acta Astronautica, Elsevier</li>
-<li>   Computers and Electrical Engineering, Elsevier</li>
-<li>   Complex & Intelligent Systems, Springer </li>
-<li> 	Expert Systems with Applications, Elsevier</li>
-<li> 	Engineering Applications of Artificial Intelligence, Elsevier</li>
-
-<li>   Applied Soft Computing, Elsevier</li>
-<li>   Information Science, Elsevier</li>
-<li> 	Computers & Operations Research, Elsevier</li>
-<li> 	Knowledge-Based Systems, Elsevier</li>
-<li> 	IEEE ACCESS, IEEE</li>
+<li> IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE</li>
+<li> Swarm and Evolutionary Computation, Elsevier </li>
+<li> Computers and Electrical Engineering, Elsevier</li>
+<li> Expert Systems with Applications, Elsevier</li>
+<li> Engineering Applications of Artificial Intelligence, Elsevier</li>
+<li> Applied Soft Computing, Elsevier</li>
+<li> Information Science, Elsevier</li>
+<li> Computers & Operations Research, Elsevier</li>
+<li> Knowledge-Based Systems, Elsevier</li>
+<li> IEEE ACCESS, IEEE</li>
 
 </ol>
 
