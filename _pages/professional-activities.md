@@ -85,7 +85,7 @@ and here
 <li> Franklin Open, Elsevier</li>
 </ol>
 
-
+<!---
 **Program Committee Member for International Conferences**
 <ol>
 <li>IEEE International Joint Conference on Neural Networks (IJCNN), 2024</li>
@@ -94,8 +94,10 @@ and here
 <li>International Workshop on the Bees Algorithm and its Applications (BAA), 2023 </li>
 <li>IEEE International Conference in Data Mining (ICDM), 2023 </li>
 </ol>
+-->
 
 **Professional Membership**
 <ol>
 <li> IEEE Student Member, 2017 – 2023 </li>
+<li> Black in Artificial Intelligence 2022 - Present </li>
 </ol>
