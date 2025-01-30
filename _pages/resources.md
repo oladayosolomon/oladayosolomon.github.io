@@ -7,21 +7,6 @@ author_profile: true
 
 ---
 
-EC Platforms
-=====
-<ol>
-<li>Evolutionary multi-objective optimization platform, <a href="https://github.com/BIMK/PlatEMO"> [PlatEMO] </a></li>
-<li>Multi-objective Optimization in Python, <a href="https://pymoo.org/problems/many/wfg.html"> [Pymoo] </a></li>
-<li>COCO: COmparing Continuous Optimizers, <a href="https://numbbo.github.io/coco/"> [COCO]</a></li>
-</ol>
-
-Deep Learning Frameworks
-=====
-<ol>
-<li>Deep learning API written in Python, <a href="https://keras.io/"> [Keras] </a></li>
-<li>Deep learning API written in Python, <a href="https://pytorch.org/hub/nvidia_deeplearningexamples_ssd/"> [Pytorch] </a></li>
-</ol>
-
 
 Benchmarks and Datasets
 =====
@@ -38,3 +23,20 @@ Open Source Codes
 <li>CMA-ES with ensemble of mutations for Parking Navigation and Maneuver of Autonomous Vehicles,  <a href="https://github.com/oladayosolomon/mCMA-ES"> [mCMA-ES] </a></li>
 <li>Multi-indicator based multi-objective evolutionary algorithm with application to neural architecture search,  <a href="https://github.com/oladayosolomon/MI-MOEA"> [cISDE+] </a></li>
 </ol>
+
+EC Platforms
+=====
+<ol>
+<li>Evolutionary multi-objective optimization platform, <a href="https://github.com/BIMK/PlatEMO"> [PlatEMO] </a></li>
+<li>Multi-objective Optimization in Python, <a href="https://pymoo.org/problems/many/wfg.html"> [Pymoo] </a></li>
+<li>COCO: COmparing Continuous Optimizers, <a href="https://numbbo.github.io/coco/"> [COCO]</a></li>
+</ol>
+
+Deep Learning Frameworks
+=====
+<ol>
+<li>Deep learning API written in Python, <a href="https://keras.io/"> [Keras] </a></li>
+<li>Deep learning API written in Python, <a href="https://pytorch.org/hub/nvidia_deeplearningexamples_ssd/"> [Pytorch] </a></li>
+</ol>
+
+
