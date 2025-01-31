@@ -44,6 +44,7 @@ and here
 <li> Computers & Operations Research, Elsevier</li>
 <li> Knowledge-Based Systems, Elsevier</li>
 <li> IEEE ACCESS, IEEE</li>
+<li> Scientific Reports, Springer Nature</li>
 
 </ol>
 
