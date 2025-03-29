@@ -32,11 +32,11 @@ Oladayo S. Ajani received the B.S. degree in computer engineering from the Feder
 
 Collaborators
 ======
-Prof. Witold Pedrycz, University of Alberta, Canda \
+Prof. Rammohan Mallipeddi, Kyungpook National University, South Korea \
 Prof. P. N. Suganthan, Nanyang Technological University, Singapore \
 Prof. Swagatam Das, Indian Statistical Institute, India \
-Prof. Rammohan Mallipeddi, Kyungpook National University, South Korea \
-Dr. Yanjie Song \
-Prof. Victor Parque 
+Prof. Victor Parque \
+Prof. Witold Pedrycz, University of Alberta, Canda \
+Dr. Yanjie Song 
 
 
