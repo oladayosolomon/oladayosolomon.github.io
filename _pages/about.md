@@ -10,6 +10,7 @@ redirect_from:
 
 News
 =====
+• 2025-04-23, The manuscript entitled "A Multi-objective Benchmark for UAV Path Planning with Baseline Results" has been accepted by Swarm and Evolutionary Computation. \
 • 2025-04-23, The manuscript entitled "SmartBerry for AI-based growth stage classification and precision nutrition management in strawberry cultivation" has been accepted by Scientific Reports. \
 • 2024-12-20, The manuscript entitled "Prediction-guided multi-objective reinforcement learning with corner solution search" has been accepted by Computers and Electrical Engineering. \
 • 2024-11-15, One SWEVO survey was selected as the Highly Cited Paper in Web of Science. \
