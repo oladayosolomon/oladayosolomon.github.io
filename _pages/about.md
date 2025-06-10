@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-=====
+
 • Research Professor \
 • BK21 Project, Intelligent Convergence Software Education and Research Group \
 • Department of Computer Science \
