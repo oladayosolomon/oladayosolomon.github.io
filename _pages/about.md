@@ -11,10 +11,10 @@ redirect_from:
 
 =====
 • Research Professor \
-• BK21 Project, Intelligent Convergence Software Education and Research Group\
+• BK21 Project, Intelligent Convergence Software Education and Research Group \
 • Department of Computer Science \
-• Kyungpook National University, Daegu, South Korea\ 
-• Daegu Campus, Kyungpook National University\
+• Kyungpook National University, Daegu, South Korea \ 
+• Daegu Campus, Kyungpook National University \
 • 80 Daehakro, Bukgu, Daegu 41566 Korea.
 
 
