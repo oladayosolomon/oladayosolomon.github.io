@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Oladayo S. Ajani"
+title: "Oladayo S. Ajani"
 #excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-Oladayo S. Ajani
 =====
 • Research Professor \
 • BK21 Project, Intelligent Convergence Software Education and Research Group\
