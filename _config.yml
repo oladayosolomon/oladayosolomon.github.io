@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Oladayo S. Ajani Ph.D."
+title                    : "Oladayo S. Ajani"
 title_separator          : "-"
 name                     : &name "Oladayo S. Ajani"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "oladayosolomon/oladayosolomon.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Oladayo S. Ajani"
+  name             : "Oladayo S. Ajani"
   pronouns         : # example: "she/her"  
   bio              : "Research Professor, "
-  location         : "Deagu, South Korea"
+  location         : "Daegu, South Korea"
   employer         : "Kyungpook National University"
   uri              : # URL
   email            : "oladayosolomon@gmail.com" 
