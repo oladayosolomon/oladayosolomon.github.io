@@ -38,13 +38,13 @@ Research Interests
 
 Biography
 ======
- <div align="justify">
+<div align="justify">
 Oladayo S. Ajani received the B.S. degree in computer engineering from the Federal University of Technology, Minna, Nigeria, in 2015, the M.S. degree in robotics and mechatronics engineering from Egypt Japan University of Science and Technology, Alexandria, Egypt, in 2020, and the Pd.D degree in Artificial Intelligence from Kyungpook National University Korea in 2024. He is currently a Post-Doctoral Research Fellow at the Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea. His research interests include reinforcement learning, intelligent control, learning networks, evolutionary computation and their applications in robotics, and real-world problems. He serves as a Regular Reviewer for several journals, including IEEE Trans. on Systems, Man and Cybernetics: Systems, Swarm and Evolutionary Computation, EAAI, ESWA,  ASOC, CAEE, and JMIR.
-</div>\
+</div>
 
 
 
-Collaborators
+\Collaborators
 ======
 Prof. Rammohan Mallipeddi, Kyungpook National University, South Korea \
 Prof. P. N. Suganthan, Nanyang Technological University, Singapore \
