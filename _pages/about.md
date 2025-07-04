@@ -44,7 +44,7 @@ Oladayo S. Ajani received the B.S. degree in computer engineering from the Feder
 
 
 
-\Collaborators
+Collaborators
 ======
 Prof. Rammohan Mallipeddi, Kyungpook National University, South Korea \
 Prof. P. N. Suganthan, Nanyang Technological University, Singapore \
