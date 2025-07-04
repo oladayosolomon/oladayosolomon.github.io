@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-<div align="justify"> your text 
 • Research Professor \
 • BK21 Project, Intelligent Convergence Software Education and Research Group \
 • Department of Computer Science, Kyungpook National University, Daegu, South Korea \
@@ -50,5 +49,5 @@ Prof. Swagatam Das, Indian Statistical Institute, India \
 Prof. Victor Parque \
 Prof. Witold Pedrycz, University of Alberta, Canda \
 Dr. Yanjie Song 
-</div>
+
 
