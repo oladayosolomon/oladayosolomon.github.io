@@ -48,8 +48,8 @@ Collaborators
 Prof. Rammohan Mallipeddi, Kyungpook National University, South Korea \
 Prof. P. N. Suganthan, Nanyang Technological University, Singapore \
 Prof. Swagatam Das, Indian Statistical Institute, India \
-Prof. Victor Parque \
-Prof. Witold Pedrycz, University of Alberta, Canda \
-Dr. Yanjie Song 
+Prof. Victor Parque, Hiroshima University, Japan \
+Prof. Witold Pedrycz, University of Alberta, Canada \
+Dr. Yanjie Song, Tianjin University, China 
 
 
