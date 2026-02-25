@@ -19,6 +19,8 @@ redirect_from:
 
 News
 =====
+• 2026-02-24, The manuscript entitled " Evolutionary Reinforcement Learning with Weight-Freezing and Markov Blanket-Based Dimensionality Reduction" has been accepted by Swarm and Evolutionary Computation. \
+• 2026-01-30, The manuscript entitled " NeuroAction: A Neuroevolutionary Approach to Reinforcement Learning for Autonomous Vehicles" has been accepted by Scientific Reports. \
 • 2025-12-22, The manuscript entitled " Evolutionary Algorithm with Domain-Specific Operators for UAV Path Planning" has been accepted by Swarm and Evolutionary Computation. \
 • 2025-10-08, The manuscript entitled " A Fitness-assignment Method for Evolutionary Constrained Multi-objective Optimization" has been accepted by Computers and Electrical Engineering. \
 • 2025-08-05, The manuscript entitled " Surrogate-Assisted Multi-Objective Covariance Matrix Adaptation Evolution Strategies" has been accepted by Applied Soft Computing. \
