@@ -19,6 +19,7 @@ redirect_from:
 
 News
 =====
+• 2026-03-21, The manuscript entitled " Measuring Intrinsic Dimension of Multiobjective Landscapes and Dimensionality-Reduced Neuroevolution of Deep Reinforcement Learning" has been accepted by GECCO 2026.
 • 2026-02-26, The manuscript entitled " Actionable counterfactual explanation generation via multi-objective optimization" has been accepted by Engineering Applications of Artificial Intelligence. \
 • 2026-02-24, The manuscript entitled " Evolutionary Reinforcement Learning with Weight-Freezing and Markov Blanket-Based Dimensionality Reduction" has been accepted by Swarm and Evolutionary Computation. \
 • 2026-01-30, The manuscript entitled " NeuroAction: A Neuroevolutionary Approach to Reinforcement Learning for Autonomous Vehicles" has been accepted by Scientific Reports. \
