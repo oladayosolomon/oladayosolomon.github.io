@@ -24,7 +24,7 @@ and here
 
 **Editor**
 <ol>
-<li> Editorial Board Member, <a href="https://www.nature.com/srep/about/editors"> Scientific Reports (Chinese Journal)</a></li>
+<li> Editorial Board Member, <a href="https://www.nature.com/srep/about/editors"> Scientific Reports (Springer Nature)</a></li>
 </ol>
 
 
