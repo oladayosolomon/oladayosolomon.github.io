@@ -13,12 +13,14 @@ redirect_from:
 • BK21 Project, Intelligent Convergence Software Education and Research Group \
 • Department of Computer Science, Kyungpook National University, Daegu, South Korea \
 • Daegu Campus, Kyungpook National University \
-• 80 Daehakro, Bukgu, Daegu 41566 Korea.
+• 80 Daehakro, Bukgu, Daegu 41566, Korea.
 
 
 
 News
 =====
+
+• 2026-06-25, The manuscript entitled " Markov Blanket-Guided Variable Analysis with Learnable Activation Mapping for Large-Scale Many-Objective Optimization" has been accepted by Swarm and Evolutionary Computation.\
 • 2026-06-11, The manuscript entitled " A Two-Stage Evolutionary Framework with Structural–Parametric Decoupling for Sparse Large-Scale Multi-Objective Optimization" has been accepted by Expert Systems with Applications.\
 • 2026-03-21, The manuscript entitled " Measuring Intrinsic Dimension of Multiobjective Landscapes and Dimensionality-Reduced Neuroevolution of Deep Reinforcement Learning" has been accepted by GECCO 2026.\
 • 2026-02-26, The manuscript entitled " Actionable counterfactual explanation generation via multi-objective optimization" has been accepted by Engineering Applications of Artificial Intelligence. \
