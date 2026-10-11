@@ -8,7 +8,7 @@ author_profile: true
 
 Principal Investigator
 =====
-1. National Research Foundation of Korea (NRF), 2026–2029: Latent Failure Space Modeling and Scalable Policy Retrofit Techniques for Safe Autonomous Driving Basic Research B (Inclusive Type) [기본연구B(포용형)] (RS-2026-25554972)
+1. National Research Foundation of Korea (NRF), 2026–2029: Latent Failure Space Modeling and Scalable Policy Retrofit Techniques for Safe Autonomous Driving Basic.  Research B (Inclusive Type) [기본연구B(포용형)] (RS-2026-25554972)
 
 Participating Researcher
 =====
